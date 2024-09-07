@@ -36,18 +36,18 @@ with st.expander("🔰 Debsirin school"):
 # Spacial skill
 with st.expander("Spacial skill"):
     st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhzVzcgNgd53IBtmjz56WNWPU5FwqzDuP_g&s", use_column_width=True)
-    st.image("https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white", use_column_width=True)
+    st.image("", use_column_width=True)
 
 # Roblox developing
 with st.expander("Roblox developing"):
     st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg", use_column_width=True)
-    st.image("https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white", use_column_width=True)
-    st.image("https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white", use_column_width=True)
+    st.image("https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht", use_column_width=True)
+    st.image("https://pbs.twimg.com/profile_images/1036953347943743488/1dbRCWDq_400x400.jpg", use_column_width=True)
+    st.image("https://loudbench.com/wp-content/uploads/2023/02/Python-logo-1024x576.png", use_column_width=True)
 
 # Dev Tools
 with st.expander("🐥 Dev Tools"):
     st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg", use_column_width=True)
-    st.image("https://pbs.twimg.com/profile_images/1036953347943743488/1dbRCWDq_400x400.jpg", use_column_width=True)
     st.image("https://loudbench.com/wp-content/uploads/2023/02/Python-logo-1024x576.png", use_column_width=True)
 
 # My Skills
