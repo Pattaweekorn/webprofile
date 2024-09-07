@@ -36,7 +36,7 @@ with st.expander("🔰 Debsirin school"):
 # Spacial skill
 with st.expander("Spacial skill"):
     st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhzVzcgNgd53IBtmjz56WNWPU5FwqzDuP_g&s", use_column_width=True)
-    st.image("", use_column_width=True)
+    st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg", use_column_width=True)
 
 # Roblox developing
 with st.expander("Roblox developing"):
@@ -52,7 +52,7 @@ with st.expander("🐥 Dev Tools"):
 
 # My Skills
 st.subheader("🐥 My Skills")
-st.image("https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda", use_column_width=True)
+st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg", use_column_width=True)
 
 # Future Plans
 st.subheader("🔮 What in Future")
