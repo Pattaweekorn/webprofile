@@ -59,6 +59,7 @@ st.subheader("🔮 What in Future")
 st.write("""
 - [ ] Study computer science in university (2026-2030)
 - [ ] Start my own company/youtube channel(2024-future)
+- [ ] Start developing my own Roblox map (2020-future)
 """)
 
 # Contact Information
